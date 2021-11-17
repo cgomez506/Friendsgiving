@@ -8,6 +8,8 @@ background-color:#e6b52e;
 .jumbotron{
   text-align:center;
   background-color:#ff9933;
+  height:800px;
+  margin-right:10px;
 }
 .jumbotron img{
    height:100px;
@@ -17,5 +19,5 @@ background-color:#e6b52e;
   max-width: 100%;
   height: auto;
   text-align:center;
-  margin:5px;
+  margin-bottom:5px;
 }
