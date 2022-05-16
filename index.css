@@ -1,7 +1,6 @@
 
 body{
 font-family: cursive;
-color:rgb(73, 19, 19);
 background-color:rgb(73, 19, 19);
 }
 
@@ -21,9 +20,9 @@ max-height: 200px;
 }
 
 .navbar-inverse {
-color:white;
+  color:white;
   font-family: cursive;
-  background-color: rgba(109, 1, 1, 0.966);
+  background-color: transparent;
   height:100px;
 }
 #navbar-custom img{
