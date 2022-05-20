@@ -53,3 +53,9 @@ h2{
   color:rgb(247, 244, 244);
   
 }
+a{
+  color:white;
+}
+.col-sm-4 img{
+height:200px;
+}
